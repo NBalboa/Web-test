@@ -35,7 +35,7 @@ const MessageFromUser = (props: Props) => {
             }}
             className="br-5px pv-3px ph-10px"
           >
-            {message.message} here
+            {message.message}
           </div>
           <span style={{ fontSize: 10 }}>{timePassed}</span>
         </div>
